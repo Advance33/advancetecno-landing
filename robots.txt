@@ -1,0 +1,9 @@
+# advancetecno.com.ar/robots.txt: el sitio institucional de Advance Tecno.
+# Se puede leer todo. La dirección que vale es https://advancetecno.com.ar/
+# (www y advancetecno-landing.vercel.app desvían acá con 301, ver vercel.json).
+# El catálogo tiene su propio robots.txt y su sitemap en
+# https://catalogo.advancetecno.com.ar/
+User-agent: *
+Disallow:
+
+Sitemap: https://advancetecno.com.ar/sitemap.xml
