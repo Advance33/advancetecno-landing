@@ -3,6 +3,8 @@
 # (www y advancetecno-landing.vercel.app desvían acá con 301, ver vercel.json).
 # El catálogo tiene su propio robots.txt y su sitemap en
 # https://catalogo.advancetecno.com.ar/
+# llms.txt es el resumen para los buscadores con IA (ChatGPT, Perplexity, Claude
+# y los demás). Sus robots entran por "User-agent: *", como Google.
 User-agent: *
 Disallow:
 
